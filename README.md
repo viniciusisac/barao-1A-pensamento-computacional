@@ -6,7 +6,7 @@ projeto de um site em HTML e CSS
 
  ...
  
- Desenvolvimento de site nas limguagens HTML e CSS
+ Desenvolvimento de site nas linguagens HTML e CSS
  
  Estudante:  *vinicius isac de macedo* n 28 
  
