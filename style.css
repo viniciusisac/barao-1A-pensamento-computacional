@@ -3,10 +3,26 @@ body {
    background-color:blue (245, 138, 77);
   }
 .capa{
-   width: 100%
+   width: 50%
 
 }
 .beneficios-imagem{
    width : 60% 
 }
+.beneficio{
+   width: 100%;
+   text-align: center;
+   background-color: aliceblue;
+}
 
+
+ul{
+   display: inline-block;
+ vertical-align: top;
+ margin-right: 100px;
+
+}
+li{
+   padding: 25px;
+   font-size: 20px;
+}
