@@ -12,7 +12,7 @@ body {
 .beneficio{
    width: 100%;
    text-align: center;
-   background-color: aliceblue;
+   background-color: aliceblue; (245, 138, 77);
 }
 
 
@@ -25,4 +25,8 @@ ul{
 li{
    padding: 25px;
    font-size: 20px;
+}
+
+.beneficios-imagem {
+   width:40%;
 }
