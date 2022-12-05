@@ -16,9 +16,9 @@ body {
 
 }
    
-
-   
-
+.logo{
+   width: 50%;
+}
 
 ul{
    display: inline-block;
